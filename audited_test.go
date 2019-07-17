@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/audited"
-	"github.com/qor/qor/test/utils"
+	"github.com/kisrobot/audited"
+	"github.com/kisrobot/qor/test/utils"
 )
 
 type Product struct {
